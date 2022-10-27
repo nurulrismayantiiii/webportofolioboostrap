@@ -1,0 +1,45 @@
+.white {
+    color: white;
+    margin-right: 10px;
+}
+
+.imgbulat {
+    border-radius: 100%;
+    width: 250px;
+    margin-bottom: 25px;
+}
+
+.cardd {
+    border: 0px;
+    margin-bottom: 50px;
+}
+
+.textleft {
+    text-align: left;
+}
+
+.kontentleft {
+    float: left;
+}
+
+.kontentright {
+    float: right;
+}
+
+.sosmed {
+    width: 15px;
+    border-radius: 100%;
+}
+
+.fs12 {
+    font-size: 12px;
+}
+
+.header {
+    background: radial-gradient(circle at top left, #080808, #020016); 
+}
+
+.experience {
+    background: radial-gradient(circle at top left, #0004fd, #1f0cf3); 
+
+}
