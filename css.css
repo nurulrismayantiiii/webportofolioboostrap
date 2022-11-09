@@ -1,3 +1,11 @@
+body {
+    font-family: Roboto;
+}
+
+hr{
+    color: #ffffff;
+}
+
 .white {
     color: white;
     margin-right: 10px;
@@ -9,9 +17,14 @@
     margin-bottom: 25px;
 }
 
+.gl {
+    border-color: #ffffff;
+}
+
 .cardd {
     border: 0px;
     margin-bottom: 50px;
+    border-radius: 0%;
 }
 
 .textleft {
@@ -27,7 +40,7 @@
 }
 
 .sosmed {
-    width: 15px;
+    width: 30px;
     border-radius: 100%;
 }
 
@@ -35,11 +48,98 @@
     font-size: 12px;
 }
 
+.fs20 {
+    font-size: 20px;
+}
+
 .header {
-    background: radial-gradient(circle at top left, #080808, #020016); 
+    background: radial-gradient(circle at top left, #080808, #020016);
+    height: 700px; 
 }
 
 .experience {
-    background: radial-gradient(circle at top left, #0004fd, #1f0cf3); 
+    background: radial-gradient(circle at top left, #0004fd, #4b80e9); 
+
+}
+
+.footer {
+    background: radial-gradient(circle at top left, #f0f699, #ffffff); 
+
+}
+
+.yellow {
+    background-color: #f0f699;
+}
+
+.mt50 {
+    margin-top: 50px;
+}
+
+.mb50 {
+    margin-bottom: 50px;
+}
+.mt100 {
+    margin-top: 100px;
+}
+
+.mt10 {
+    margin-top: 10px;
+}
+
+.pt12 {
+    padding-top: 12px;
+}
+
+.pt70 {
+    padding-top: 70px;
+}
+
+
+.pt50{
+    padding-top: 50px;
+}
+
+.pb50{
+    padding-bottom: 50px;
+}
+
+.mb{
+    margin-bottom: 0px;
+}
+
+.pb {
+    padding-bottom: 0px;
+}
+
+.fc {
+    display: block;
+    width: 50%;
+}
+
+.tools {
+    width: 100px;
+    display: block;
+    float: left;
+    width: 100%;
+}
+
+.mr50 {
+    margin-right: 150px;
+}
+
+.pr100 {
+    padding-right: 100px;
+}
+
+.humberger {
+    border: #ffffff;
+    color: #ffffff;
+    border-color: #ffffff;
+}
+
+.jc {
+    display: flex;
+    justify-content: center;
+    align-items: center;
 
 }
